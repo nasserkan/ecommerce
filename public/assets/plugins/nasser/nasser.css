@@ -1,0 +1,48 @@
+#modaldemo88 .modal-footer > :not(:first-child) {
+    margin-left: 14px; }
+
+    .form-group  {
+      margin-left: 10px; direction: ltr;}
+
+    #modaldemo88 .label  {
+      margin-left: 10px; direction: ltr;}
+
+      #modaldemo88 .input-group-text  {
+          margin-left: 10px; direction: ltr;}
+
+  .modal-footer > :not(:last-child) {
+    margin-left: .25rem; }
+
+
+.form-group  {
+    margin-left: 10px; direction: ltr;}
+
+    .modal-content-demo .modal-body h6 {
+        color: #242f48;
+        font-size: 15px;
+        margin-bottom: 15px; }
+
+      .modal-content-demo .modal-body p {
+        margin-bottom: 0; }
+
+        .modal-content {
+            border-radius: 0;
+            border-width: 0; }
+            .modal-content .close {
+              font-size: 28px;
+              padding: 0;
+              margin: 0;
+              line-height: .5; }
+
+              .modal-content {
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                pointer-events: auto;
+                background-color: #000;
+                background-clip: padding-box;
+                border: 1px solid rgba(0, 0, 0, 0.2);
+                border-radius: 0.3rem;
+                outline: 0; }
+
